@@ -1,0 +1,7 @@
+On 28/Feb/ 2014
+
+Averaging over 20 X 20 pixels
+
+Folder contains bothe ASCII and ENVI files
+
+The pigments are scaned with an equlisation filter

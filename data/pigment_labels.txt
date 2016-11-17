@@ -1,0 +1,64 @@
+	 1	Lead white
+	 2	Titanium white
+	 3	Lamp black
+	 4	Lead-tin yellow 1
+	 5	Cadmium yellow (deep)
+	 6	Indian yellow
+	 7	Aureolin
+	 8	Titan yellow
+	 9	Lemon yellow
+	10	Zinc yellow
+	11	Chrome yellow
+	12	Chrome yellow (deep)
+	13	Buckthorn lake
+	14	Cadmium orange
+	15	Cadmium red
+	16	Mercuric Iodide
+	17	Red lead
+	18	Vermilion
+	19	Orient carmine
+	20	Alizarin lake
+	21	Lac lake
+	22	Brazilwood lake
+	23	Rose madder
+	24	Cadmium maroon
+	25	Red lead + lead white
+	26	Brown madder + lead white
+	27	Carmine + lead white
+	28	Cadmium read + lead white
+	29	Viridian + lead white
+	30	Brazilwood + lead white
+	31	Rose madder + lead white
+	32	Cadmium maroon + lead white
+	33	Red ochre
+	34	Brown madder
+	35	Raw sienna
+	36	Burnt sienna
+	37	Raw umber
+	38	Burnt umber
+	39	Burnt umber + lead white
+	40	Yellow ochre
+	41	Sap green
+	42	Malachite (natural)
+	43	Green earth
+	44	Chromium oxide
+	45	Viridian
+	46	Emerald green
+	47	Malachite (synthetic)
+	48	Scheele's green
+	49	Azurite
+	50	Ultramarine
+	51	Indigo
+	52	Prussian blue
+	53	Manganese blue
+	54	Cerulean blue
+	55	Cobalt blue
+	56	Monastral blue
+	57	Azurite + lead white
+	58	Ultramarine + lead white
+	59	Indigo + lead white
+	60	Prussian blue + lead white
+	61	Manganese blue + lead white
+	62	Cerulean blue + lead white
+	63	Lamp black + lead white
+	64	Monastral blue + lead white

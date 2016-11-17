@@ -1,0 +1,66 @@
+ENVI
+description = {
+  New spectral library file [Fri Feb 28 01:30:29 2014]}
+samples = 160
+lines   = 64
+bands   = 1
+header offset = 0
+file type = ENVI Spectral Library
+data type = 5
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+wavelength units = Nanometers
+reflectance scale factor = 1.000000
+z plot titles = {Wavelength, Reflectance}
+band names = {
+ Spectral Library}
+spectra names = {
+ 1_Lead white , 9_Lemon yellow  , 17_Red lead , 25_Red lead + lead white , 
+ 33_Red ochre , 41_Sap green , 49_Azurite , 57_Azurite + lead white , 
+ 2_Titanium white, 3_Lamp black, 10_Zinc yellow, 11_Chrome yellow, 
+ 18_Vermilion, 19_Orient carmine, 26_Brown madder + lead white, 
+ 27_Carmine + lead white, 34_Brown madder, 35_Raw sienna, 
+ 42_Malachite (natural), 43_Green earth, 50_Ultramarine, 51_Indigo, 
+ 58_Ultramarine + lead white, 59_Indigo + lead white, 4_Lead-tin yellow, 
+ 12_Chrome yellow (deep), 20_Alizarin lake, 28_Cadmium read + lead white, 
+ 36_Burnt sienna, 44_Chromium oxide, 52_Prussian blue, 
+ 60_Prussian blue + lead white, 5_Cadmium yellow (deep), 6_Indian yellow, 
+ 13_Buckthorn lake, 14_Cadmium orange, 21_Lac lake, 22_Brazilwood lake, 
+ 29_Viridian + lead white, 30_Brazilwood + lead white, 37_Raw umber, 
+ 38_Burnt umber, 45_Viridian, 46_Emerald green, 53_Manganese blue, 
+ 54_Cerulean blue, 61_Manganese blue + lead white, 
+ 62_Cerulean blue + lead white, 7_Aureolin, 15_Cadmium red, 23_Rose madder, 
+ 31_Rose madder + lead white, 39_Burnt umber + lead white, 
+ 47_Malachite (synthetic), 55_Cobalt blue, 63_Lamp black + lead white, 
+ 8_Titan yellow, 16_Mercuric Iodide, 24_Cadmium maroon, 
+ 32_Cadmium maroon + lead white, 40_Yellow ochre, 48_Scheele's green, 
+ 56_Monastral blue, 64_Monastral blue + lead white}
+wavelength = {
+ 414.702545, 418.345978, 421.989441, 425.632874, 429.276337, 432.919769,
+ 436.563202, 440.206665, 443.850098, 447.493561, 451.136993, 454.780426,
+ 458.423889, 462.067322, 465.710785, 469.354218, 472.997650, 476.641113,
+ 480.284546, 483.928009, 487.571442, 491.214874, 494.858337, 498.501770,
+ 502.145233, 505.788666, 509.432098, 513.075562, 516.718994, 520.362427,
+ 524.005859, 527.649353, 531.292786, 534.936218, 538.579651, 542.223083,
+ 545.866577, 549.510010, 553.153442, 556.796875, 560.440308, 564.083801,
+ 567.727234, 571.370667, 575.014099, 578.657532, 582.301025, 585.944458,
+ 589.587891, 593.231323, 596.874756, 600.518250, 604.161682, 607.805115,
+ 611.448547, 615.091980, 618.735474, 622.378906, 626.022339, 629.665771,
+ 633.309204, 636.952698, 640.596130, 644.239563, 647.882996, 651.526428,
+ 655.169922, 658.813354, 662.456787, 666.100220, 669.743652, 673.387146,
+ 677.030579, 680.674011, 684.317444, 687.960876, 691.604309, 695.247803,
+ 698.891235, 702.534668, 706.178101, 709.821533, 713.465027, 717.108459,
+ 720.751892, 724.395325, 728.038757, 731.682251, 735.325684, 738.969116,
+ 742.612549, 746.255981, 749.899475, 753.542908, 757.186340, 760.829773,
+ 764.473206, 768.116699, 771.760132, 775.403564, 779.046997, 782.690430,
+ 786.333923, 789.977356, 793.620789, 797.264221, 800.907654, 804.551147,
+ 808.194580, 811.838013, 815.481445, 819.124878, 822.768372, 826.411804,
+ 830.055237, 833.698669, 837.342102, 840.985596, 844.629028, 848.272461,
+ 851.915894, 855.559326, 859.202820, 862.846252, 866.489685, 870.133118,
+ 873.776550, 877.420044, 881.063477, 884.706909, 888.350342, 891.993774,
+ 895.637268, 899.280701, 902.924133, 906.567566, 910.210999, 913.854431,
+ 917.497925, 921.141357, 924.784790, 928.428223, 932.071655, 935.715149,
+ 939.358582, 943.002014, 946.645447, 950.288879, 953.932373, 957.575806,
+ 961.219238, 964.862671, 968.506104, 972.149597, 975.793030, 979.436462,
+ 983.079895, 986.723328, 990.366821, 994.010254}
